@@ -485,7 +485,7 @@ body.active{
   }
 
   .menu-section{
-    padding: 0rem 4rem;
+    padding: 0rem 1rem;
     padding-bottom: 2rem;
     background: transparent;
   }
@@ -1697,4 +1697,5 @@ body.active{
       flex-direction: column;
       padding-bottom: 2rem;
     }
+
   }
