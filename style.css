@@ -537,6 +537,7 @@ body.active{
     height: 100%;
     display: grid;
     align-items: center;
+    margin-bottom: 1.3rem;
     justify-content: center;
     justify-content: space-evenly;
     grid-template-columns: 1fr 1fr;
@@ -1699,5 +1700,6 @@ body.active{
     }
 
   }
+
 
 
