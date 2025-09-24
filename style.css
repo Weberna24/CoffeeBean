@@ -588,8 +588,8 @@ body.active{
   }
 
   .menu-content img{
-    width: 70%;
-    height: 70%;
+    width: 80%;
+    height: 100%;
     border-radius: 20px;
   }
   
@@ -1699,3 +1699,4 @@ body.active{
     }
 
   }
+
